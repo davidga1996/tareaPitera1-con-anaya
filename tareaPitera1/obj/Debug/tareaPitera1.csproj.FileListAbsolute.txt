@@ -1,0 +1,8 @@
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\bin\Debug\tareaPitera1.exe.config
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\bin\Debug\tareaPitera1.exe
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\bin\Debug\tareaPitera1.pdb
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\obj\Debug\tareaPitera1.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\obj\Debug\tareaPitera1.exe
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\obj\Debug\tareaPitera1.pdb
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\obj\Debug\tareaPitera1.MainForm.resources
+C:\Users\david\OneDrive\Documentos\SharpDevelop Projects\tareaPitera1\tareaPitera1\obj\Debug\tareaPitera1.csproj.GenerateResource.Cache
