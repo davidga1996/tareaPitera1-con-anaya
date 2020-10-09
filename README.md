@@ -13,7 +13,7 @@
 - [ ] *2.- Crear y dar formato a la ventana*
      - [ ] *3.- Cargar un documento*
        - [ ] *4.- Guardar un documento*
-     - [ ] *5.- Guardar un nuevo documento*
+        - [ ] *5.- Guardar un nuevo documento*
      - [ ] *6.- Nuevo documento*
 - [x] *.- Analizador Lexico*
 - [x] punto 1
